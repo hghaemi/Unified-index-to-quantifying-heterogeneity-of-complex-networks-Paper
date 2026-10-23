@@ -56,10 +56,6 @@ For a detailed explanation of the concepts and methodology, refer to the origina
 
 If you have any questions or encounter any issues, feel free to contact me via email at **h.ghaemi.2003@gmail.com**.
 
-## License
-
-Include a license here if applicable (e.g., MIT, Apache 2.0).
-
 ---
 
 Feel free to contribute or raise issues if you encounter any problems!
